@@ -1,0 +1,18 @@
+Start: processing started
+TranscriptionFileName:	data/psds/zzzx4FqSC5/zzzx4FqSC5.trans
+RefPitchFile:	NONE
+StudentPitchFile:	data/psds/zzzx4FqSC5/zzzx4FqSC5.pitch_user
+OutputFeedbackFile:	scratch/zzzx4FqSC5.fdbk_c
+LogFileName:	data/psds/zzzx4FqSC5/zzzx4FqSC5.log
+Tonic:	146.832382
+NLoops:	1
+DurationOfLesson:	10000.000000
+Successfully read the transcription file
+Successfully read student's pitch file
+Successfully mapped the indices of the pitch samples for every svar in the transcribed file
+Successfully evaluated the svaras sung by the student
+################DEBUGGING DUMPFEEDBACK METHOD ###################
+Writing note 0, startTime: 2.000000, endTime: 10.000000, score: 0.818312
+################DEBUGGING DUMPFEEDBACK METHOD OVER###################
+Successfully dumped the feedback
+Success: Feedback file successfully generated

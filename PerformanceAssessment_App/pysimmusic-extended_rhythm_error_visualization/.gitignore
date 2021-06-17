@@ -1,0 +1,12 @@
+.idea
+build
+dist
+simmusic.egg-info
+.cache
+*.pyc
+*.so
+cdtw.c
+.eggs
+.DS_Store
+
+

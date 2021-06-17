@@ -1,0 +1,7 @@
+[distutils]
+index-servers = dev
+
+[dev]
+repository: https://mtg-devpi.sb.upf.edu/asplab/dev/
+username: asplab
+password: asplab

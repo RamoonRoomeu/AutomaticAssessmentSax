@@ -1,0 +1,24 @@
+{
+ "uid": "Lesson02Ex2",
+ "sandbox": {
+  "path": "%PYSIM_CHORDS_TEST_DATA_DIR%/exercises/Leah17Dec2018/Lesson02Ex2/reference.mp3",
+  "lilypond_template": "l2ex2.ly"
+ },
+ "artist": "",
+ "parts": [
+  {
+   "name": "chorus 1",
+   "beats": [ 3.182     ,  3.97147368,  4.76094737,  5.55042105,
+             6.33989474, 7.12936842,  7.91884211,  8.70831579,
+             9.49778947, 10.28726316, 11.07673684, 11.86621053,
+             12.65568421, 13.44515789, 14.23463158, 15.02410526],
+   "chords": [
+    "|A:min|E|A:min|E|"
+   ]
+  }
+ ],
+ "duration": 16.92,
+ "metre": "4/4",
+ "title": "L2Ex2",
+ "tuning": 442.16
+}

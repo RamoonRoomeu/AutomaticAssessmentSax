@@ -1,0 +1,23 @@
+{
+ "uid": "Lesson03Ex1",
+ "sandbox": {
+  "path": "%PYSIM_CHORDS_TEST_DATA_DIR%/exercises/Leah17Dec2018/Lesson03Ex1/reference.mp3",
+  "lilypond_template": "l3ex1.ly"
+ },
+ "artist": "",
+ "parts": [
+  {
+   "name": "chorus 1",
+   "beats": [ 4.024,  5.024,  6.024,  7.024,
+              8.024,  9.024, 10.024, 11.024,
+              12.024, 13.024, 14.024, 15.024],
+   "chords": [
+    "|F:(1) G:(1) A:(1) F:(1)| G:(1) G:(1) G:(1) G:(1) | F:(1):1|"
+   ]
+  }
+ ],
+ "duration": 16.37,
+ "metre": "4/4",
+ "title": "L3Ex1",
+ "tuning": 442.16
+}

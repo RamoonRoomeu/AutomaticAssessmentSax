@@ -1,0 +1,4 @@
+%PYSIM_CHORDS_TEST_DATA_DIR%/annotations/berklee_demo.json
+%PYSIM_CHORDS_TEST_DATA_DIR%/annotations/maj35fromE.json
+%PYSIM_CHORDS_TEST_DATA_DIR%/annotations/min35fromE.json
+%PYSIM_CHORDS_TEST_DATA_DIR%/annotations/seva_demo.json

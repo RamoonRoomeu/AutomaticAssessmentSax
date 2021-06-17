@@ -1,0 +1,15 @@
+include README.md
+include simmusic/extractors/feature_based_grade_estimator/MAST_model/linear_regression/norm_factors.pkl
+include simmusic/extractors/feature_based_grade_estimator/MAST_model/linear_regression/lin_reg_model.pkl
+
+include simmusic/extractors/feature_based_grade_estimator/MAST_model/mlp_regression/norm_factors.pkl
+include simmusic/extractors/feature_based_grade_estimator/MAST_model/mlp_regression/mlp_reg_model.pkl
+
+include simmusic/extractors/chord_models/ind_pdf.pkl
+include simmusic/extractors/chord_models/solo_picking_pdf.pkl
+include simmusic/extractors/guitar_models/picking_workflow.pkl
+include simmusic/extractors/guitar_models/strumming_workflow.pkl
+
+include simmusic/extractors/notes_singing_models/KNN.joblib
+include simmusic/extractors/notes_singing_models/KNN_pass_fail.joblib
+include simmusic/extractors/notes_singing_models/regression.joblib
